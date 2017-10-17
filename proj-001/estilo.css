@@ -1,0 +1,44 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+    background-color: #ecf0fa;
+    margin: 12px;
+    padding: 12px;
+    
+    
+    
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+
+h2{
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    
+    
+}
+
+li{
+    margin:12px;
+    background-color: #9b59b6;
+    font-size: 18px;
+    color:white;
+    font-family: sans-serif;
+    list-style-type: none;
+    padding: 12px;
+    
+    
+    
+}
