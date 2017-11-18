@@ -1,9 +1,9 @@
 body{
-    background-color:#eff0f2;
+    background-color:#ffff;
    
 }
 aside{
-    background-color:#323232;
+    background-color:#222222;
     text-align: center;
     padding: 50px !important;
 }
@@ -15,24 +15,25 @@ aside img{
 }
 
 aside h1{
-    color: #f5a623;
+    color: #57aff8;
     font-size: 24px;
     font-family: "lato";
     font-weight: 700;
     margin-top: 20px;
     text-transform: uppercase;
+    
 }
 
 aside h2{
     font-size: 16px;
-    color: #ffffff;
+    color:#fff;
     font-family: "lato";
     font-weight: 700;
     margin-top: 5px;
 }
 
 aside .button{
-    background-color:#f9a641 !important;
+    background-color:#57aff8 !important;
     text-transform: uppercase;
     font-size: 14px !important;
     font-family: "lato" !important;
@@ -43,7 +44,7 @@ aside .button{
     height: 47px;
     border-radius: 3px;
     margin-top: 20px;
-    box-shadow: 0px 4px 0px rgba(245,166,35, 0.6);
+    box-shadow: 0px 4px 0px rgba(87,175,248, 0.6);
     
 }
 
@@ -59,7 +60,7 @@ aside .redes-sociais li{
 }
 
 aside .redes-sociais li i{
-    color: #fff;
+    color:#fff;
     font-size: 30px;
     
 }
@@ -77,14 +78,14 @@ aside .habilidades h3{
     font-size: 16px;
     font-family: "lato";
     font-weight: 700;
-    color: #eeeeee;
+    color: #fff;
     margin-bottom: 10px;
     
 }
 
 aside .habilidades small{
     font-size: 12px;
-    color: #8fa4af;
+    color:#fff;
     
     
 }
@@ -94,5 +95,5 @@ aside .habilidades progress{
 }
 
 aside .habilidades progress::-webkit-progress-value{
-    background-color: #f1b668 !important;
+    background-color:#57aff8 !important;
 }
