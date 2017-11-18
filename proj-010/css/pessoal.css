@@ -1,0 +1,98 @@
+body{
+    background-color:#eff0f2;
+   
+}
+aside{
+    background-color:#323232;
+    text-align: center;
+    padding: 50px !important;
+}
+
+aside img{
+    width: 150px;
+    height: 160px;
+    margin-top: 32px;
+}
+
+aside h1{
+    color: #f5a623;
+    font-size: 24px;
+    font-family: "lato";
+    font-weight: 700;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+aside h2{
+    font-size: 16px;
+    color: #ffffff;
+    font-family: "lato";
+    font-weight: 700;
+    margin-top: 5px;
+}
+
+aside .button{
+    background-color:#f9a641 !important;
+    text-transform: uppercase;
+    font-size: 14px !important;
+    font-family: "lato" !important;
+    padding: 20px 30px 20px 30px;
+    font-weight: 700;
+    border: none;
+    width: 140px;
+    height: 47px;
+    border-radius: 3px;
+    margin-top: 20px;
+    box-shadow: 0px 4px 0px rgba(245,166,35, 0.6);
+    
+}
+
+aside .redes-sociais{
+    margin-top: 19px;
+    margin-right: 14px;
+}
+
+aside .redes-sociais li{
+    display: inline;
+    margin-right: 5px;
+    
+}
+
+aside .redes-sociais li i{
+    color: #fff;
+    font-size: 30px;
+    
+}
+
+aside .habilidades{
+    text-align: left;
+    color:#fff;
+    margin-top: 50px;
+    
+    
+    
+}
+
+aside .habilidades h3{
+    font-size: 16px;
+    font-family: "lato";
+    font-weight: 700;
+    color: #eeeeee;
+    margin-bottom: 10px;
+    
+}
+
+aside .habilidades small{
+    font-size: 12px;
+    color: #8fa4af;
+    
+    
+}
+
+aside .habilidades progress{
+    margin-bottom: 6px;
+}
+
+aside .habilidades progress::-webkit-progress-value{
+    background-color: #f1b668 !important;
+}
